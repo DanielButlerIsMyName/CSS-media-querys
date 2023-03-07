@@ -9,3 +9,8 @@ in root folder of project in console
 
 1. npm install
 2. npm run build
+
+## SASS
+
+1. cd src/css
+2. sass --watch style.sass style.css
